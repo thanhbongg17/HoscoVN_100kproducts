@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091095354442",
+    "project_id": "phamtienthanh-3d1f6",
+    "storage_bucket": "phamtienthanh-3d1f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091095354442:android:062cf49596b13b3169dab3",
+        "android_client_info": {
+          "package_name": "com.example.hoscovn_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQo1B5Na-YB8eFV9e8HYw_mbPPF_RRXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091095354442:android:0ceb92bf5770c9d969dab3",
+        "android_client_info": {
+          "package_name": "com.hoscocorp.notifications_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQo1B5Na-YB8eFV9e8HYw_mbPPF_RRXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
