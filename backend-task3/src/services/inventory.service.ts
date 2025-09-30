@@ -1,7 +1,7 @@
 // src/app/services/inventory.service.ts
 import { InventoryModel } from '../model/inventory.model.js';
 
-const DEFAULT_DELAY_MS = Number(process.env.SIM_DELAY_MS || 10_000);
+const DEFAULT_DELAY_MS = Number(process.env.SIM_DELAY_MS || 5_000);
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 export class InventoryService {
